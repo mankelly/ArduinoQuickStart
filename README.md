@@ -1,3 +1,10 @@
 # Arduino Quick Start Guide
 **YouTube link for playlist: https://youtube.com/playlist?list=PLpgVYBaSVeL1hmogwRLl3vS6dIx-ETihO**
-* **I used rd_data[31:30] for the empty and full flags**
+This is an Arduino quick start guide for people who are new to programming.
+Topics that will be covered are:
+* What is an Arduino?
+* C++ Basics.
+* Arduino I/O.
+* Programming the Arduino.
+
+All devloped code will be posted to this repository.
